@@ -8,4 +8,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Exécution d'un script simple
-      run: echo "Le workflow CI est déclenché par un push sur GitHub!"
+      run: echo "Bah alors El Monstro, on essaie de push ?"
